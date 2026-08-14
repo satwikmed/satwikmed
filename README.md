@@ -1,11 +1,13 @@
-# Satwik Medipalli
+### Hi — I'm Satwik Medipalli
 
-**AI / LLM Engineer · Data Scientist** · Richardson, TX  
+**AI / LLM Engineer · Data Scientist** · Livingston, NJ  
 [Portfolio](https://satwikmedipalli.dev) · [LinkedIn](https://www.linkedin.com/in/medipalli-satwik/) · [Email](mailto:sathwik.medipalli@gmail.com)
 
-UT Dallas M.S. Business Analytics. I ship production systems — multiagent AI, grounded research tools, reliability ML, and decision analytics. **8 live products. 3 internships.**
+UT Dallas M.S. Business Analytics. I ship production systems — multiagent AI, grounded research tools, reliability ML, and decision analytics.
 
-## Flagship (click Live)
+**8 live products · 3 internships · open to work**
+
+### Flagship (click Live)
 
 | Project | What it is | Live |
 |---|---|---|
@@ -16,11 +18,11 @@ UT Dallas M.S. Business Analytics. I ship production systems — multiagent AI, 
 | **ShapeShift** | Causal evaluation of MLB pitch redesigns (5.6M+ pitches) | [Demo](https://web-bice-eta-18.vercel.app) |
 | **SentinelAI** | GenAI gateway — routing, guardrails, RAG, CI eval gates | [Demo](https://sentinelai-ochre-six.vercel.app) |
 
-## Stack I reach for
+### Stack
 
 `Python` · `TypeScript` · `SQL` · `LangGraph` · `CrewAI` · `RAG` · `FastAPI` · `React` · `XGBoost` · `SHAP` · `DuckDB` · `Docker` · `AWS` · `Azure`
 
-## Currently
+### Looking for
 
-Open to **AI / LLM Engineer**, **Data Scientist**, and **Analytics Engineer** roles.  
+**AI / LLM Engineer**, **Data Scientist**, or **Analytics Engineer** roles.  
 Start here → [satwikmedipalli.dev](https://satwikmedipalli.dev)
