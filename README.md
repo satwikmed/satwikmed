@@ -1,28 +1,28 @@
-### Hi — I'm Satwik Medipalli
+### Satwik Medipalli — AI / LLM Engineer
 
-**AI / LLM Engineer · Data Scientist** · Livingston, NJ  
-[Portfolio](https://satwikmedipalli.dev) · [LinkedIn](https://www.linkedin.com/in/medipalli-satwik/) · [Email](mailto:sathwik.medipalli@gmail.com)
+**Livingston, NJ** · Open to work · [Portfolio](https://satwikmedipalli.dev) · [LinkedIn](https://www.linkedin.com/in/medipalli-satwik/) · [Email](mailto:sathwik.medipalli@gmail.com)
 
-UT Dallas M.S. Business Analytics. I ship production systems — multiagent AI, grounded research tools, reliability ML, and decision analytics.
+I ship production AI systems recruiters can click — not slide decks.
 
-**8 live products · 3 internships · open to work**
+**8 live products · 3 internships · UT Dallas M.S. Business Analytics**
 
-### Flagship (click Live)
+### Click a live demo (30 seconds)
 
-| Project | What it is | Live |
+| Product | Why it matters | Live |
 |---|---|---|
-| **Diligence AI** | Multiagent SEC 10-K due diligence with citation-backed reports | [Demo](https://diligence-ai-nine.vercel.app) |
-| **Lumen** | S&P 500 terminal — Yahoo / SEC / FRED + AI that never invents numbers | [Demo](https://lumen-pi-nine.vercel.app) |
-| **VoiceIQ** | Calibrated LLM-as-judge harness for voice agents | [Demo](https://voice-agent.vercel.app) |
-| **SiliconSentinel** | Fleet reliability ML + claim-verifying AI analyst | [Demo](https://silicon-sentinel.vercel.app) |
-| **ShapeShift** | Causal evaluation of MLB pitch redesigns (5.6M+ pitches) | [Demo](https://web-bice-eta-18.vercel.app) |
-| **SentinelAI** | GenAI gateway — routing, guardrails, RAG, CI eval gates | [Demo](https://sentinelai-ochre-six.vercel.app) |
+| **[DiligenceAI](https://github.com/satwikmed/DiligenceAI)** | Multiagent SEC 10-K due diligence with citation-backed reports | [Demo](https://diligence-ai-nine.vercel.app) |
+| **[Lumen](https://github.com/satwikmed/Lumen)** | S&P 500 terminal + grounded AI that never invents numbers | [Demo](https://lumen-pi-nine.vercel.app) |
+| **[VoiceIQ](https://github.com/satwikmed/VoiceIQ)** | Calibrated LLM-as-judge harness for voice agents | [Demo](https://voice-agent.vercel.app) |
+| **[SiliconSentinel](https://github.com/satwikmed/SiliconSentinel)** | Fleet reliability ML + claim-verifying AI analyst | [Demo](https://silicon-sentinel.vercel.app) |
+| **[ShapeShift](https://github.com/satwikmed/ShapeShift)** | Causal pitch-redesign decisions on 5.6M+ Statcast pitches | [Demo](https://web-bice-eta-18.vercel.app) |
+| **[SentinelAI](https://github.com/satwikmed/SentinelAI)** | GenAI gateway — routing, guardrails, RAG, CI eval gates | [Demo](https://sentinelai-ochre-six.vercel.app) |
 
 ### Stack
 
 `Python` · `TypeScript` · `SQL` · `LangGraph` · `CrewAI` · `RAG` · `FastAPI` · `React` · `XGBoost` · `SHAP` · `DuckDB` · `Docker` · `AWS` · `Azure`
 
-### Looking for
+### Hire me for
 
-**AI / LLM Engineer**, **Data Scientist**, or **Analytics Engineer** roles.  
-Start here → [satwikmedipalli.dev](https://satwikmedipalli.dev)
+**AI / LLM Engineer**, **Applied AI**, or **Data Scientist** roles where shipping matters.
+
+→ [satwikmedipalli.dev](https://satwikmedipalli.dev) · dual resumes on site
